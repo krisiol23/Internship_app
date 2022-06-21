@@ -1,2 +1,2 @@
 # Internship_app
-That app I made in my internship.
+That app I made on my internship.
